@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/kelumdilshan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kelumdilshan1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kelumweerasuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelumweerasuriya" height="30" width="40" /></a>
-<a href="https://fb.com/kelumweerasuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kelumweerasuriya" height="30" width="40" /></a>
+<a href="https://fb.com/dilshanweerasuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kelumweerasuriya" height="30" width="40" /></a>
 <a href="https://instagram.com/kelumdilshanweerasuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kelumdilshanweerasuriya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hydra 766 yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hydra 766 yt" height="30" width="40" /></a>
 </p>
