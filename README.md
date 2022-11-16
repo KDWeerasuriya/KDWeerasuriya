@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [H2bis](https://qa.tamilunioncac.com/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **PHP and Laravel**
+- 💬 Ask me about ** React Nodejs PHP and Laravel**
 
 - 📫 How to reach me **dilshankelum535@gmail.com**
 
